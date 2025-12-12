@@ -2,8 +2,8 @@
 
 ### Final Project by Mohamad Ali
 
-[ Dugsiiye College](http://dugsiiye.com)
-**live website** ![](https://finel-project-tailwind-css.vercel.app/)
+[ Dugsiiye College](http://dugsiiye.com)/
+**live website** https://finel-project-tailwind-css.vercel.app
 
 ## 🌐 Project Overview: Business Landing Page with Tailwind CSS
 
